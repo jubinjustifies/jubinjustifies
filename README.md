@@ -16,13 +16,13 @@
 
 <p align="center"> 
   🔗 Companies I've Worked For:<br>
-  <a href="https://www.linkedin.com/smart-links/AQHlTiofkxWIsg" target="_blank">
+  <a href="https://www.linkedin.com/company/peppermoney/" target="_blank">
     <img src="https://img.shields.io/badge/-Pepper%20Money-red?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Pepper Money"/>
   </a>
-  <a href="https://www.linkedin.com/company/paysafe/about/" target="_blank">
+  <a href="https://www.linkedin.com/company/paysafe/" target="_blank">
     <img src="https://img.shields.io/badge/-Paysafe-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Paysafe"/>
   </a>
-  <a href="https://www.linkedin.com/company/lloyds-banking-group/people/" target="_blank">
+  <a href="https://www.linkedin.com/company/lloyds-banking-group/" target="_blank">
     <img src="https://img.shields.io/badge/-Lloyds%20Banking%20Group-green?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Lloyds Banking Group"/>
   </a>
 </p>
