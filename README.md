@@ -1,21 +1,22 @@
 <h1 align="center">👋 Hi, I'm Jubin Sharma 👨‍💻</h1>
-<h3 align="center">⚡ Senior Data Engineer | 7+ Years Experience | Tech & Banking Domain 🏦</h3>
-
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://linkedin.com/in/sharmajubin" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+      </a> 
+    </td>
+    <td align="center">
+      <h3 align="center">⚡ Senior Data Engineer | 7+ Years Experience | Tech & Banking Domain 🏦</h3>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=JubinSharma&color=brightgreen&style=for-the-badge" alt="Visitor Count"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center"> 
-  🔗 Connect with me:<br>
-  <a href="https://linkedin.com/in/sharmajubin" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> 
-</p>
-
-<p align="center"> 
-  🏆 Visitor count<br>
-  <img src="https://komarev.com/ghpvc/?username=JubinSharma&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center"> 
-  🔗 Companies I've Worked For:<br>
+  🔗 Companies and Clients I've Worked For:<br>
   <a href="https://www.linkedin.com/company/peppermoney/" target="_blank">
     <img src="https://img.shields.io/badge/-Pepper%20Money-red?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Pepper Money"/>
   </a>
@@ -25,7 +26,14 @@
   <a href="https://www.linkedin.com/company/lloyds-banking-group/" target="_blank">
     <img src="https://img.shields.io/badge/-Lloyds%20Banking%20Group-green?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Lloyds Banking Group"/>
   </a>
+  <a href="https://open-insights.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Open%20Insights-cyan?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Open Insights"/>
+  </a>
+  <a href="https://www.linkedin.com/company/publicissapient/" target="_blank">
+    <img src="https://img.shields.io/badge/-Publicis%20Sapient-orange?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Publicis Sapient"/>
+  </a>
 </p>
+
 
 ---
 
