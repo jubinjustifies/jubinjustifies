@@ -1,19 +1,15 @@
 <h1 align="center">👋 Hi, I'm Jubin Sharma 👨‍💻</h1>
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="https://linkedin.com/in/sharmajubin" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-      </a> 
-    </td>
-    <td align="center">
-      <h3 align="center">⚡ Senior Data Engineer | 7+ Years Experience | Tech & Banking Domain 🏦</h3>
-    </td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=JubinSharma&color=brightgreen&style=for-the-badge" alt="Visitor Count"/>
-    </td>
-  </tr>
-</table>
+<h2 align="center">⚡ Senior Data Engineer | 7+ Years Experience | Tech & Banking Domain 🏦</h3><table width="100%">
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a align="left "href="https://linkedin.com/in/sharmajubin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=JubinSharma&color=brightgreen&style=for-the-badge" alt="Visit Counter"/>
+</div>
+
+
 
 <p align="center"> 
   🔗 Companies and Clients I've Worked For:<br>
