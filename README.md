@@ -12,6 +12,12 @@
   </a>
 </p>
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 ## 💫 About Me:
 
 - 🔭 **Educational Background:** MS in Information Systems, Bachelor's in Computer Science.
