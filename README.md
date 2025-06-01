@@ -1,23 +1,33 @@
+<h1 align="center">👋 Hi, I'm Jubin Sharma 👨‍💻</h1>
+<h3 align="center">⚡ Senior Data Engineer | 7+ Years Experience | Tech & Banking Domain 🏦</h3>
 
-
-<h1 align="center">Hi, I'm Jubin Sharma 👋</h1>
-<h3 align="center">Senior Data Engineer with 7+ years experience across Tech & Banking domain</h3>
 
 <p align="center"> 
+  🔗 Connect with me:<br>
   <a href="https://linkedin.com/in/sharmajubin" target="_blank">
-    <img src="https://img.shields.io/badge/-Jubin%20Sharma-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a> 
-  <a href="https://rosh-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20Portfolio-purple?style=for-the-badge&logo=About.rp&logoColor=white" alt="Portfolio" />
+</p>
+
+<p align="center"> 
+  🏆 Visitor count<br>
+  <img src="https://komarev.com/ghpvc/?username=JubinSharma&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center"> 
+  🔗 Companies I've Worked For:<br>
+  <a href="https://www.linkedin.com/smart-links/AQHlTiofkxWIsg" target="_blank">
+    <img src="https://img.shields.io/badge/-Pepper%20Money-red?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Pepper Money"/>
+  </a>
+  <a href="https://www.linkedin.com/company/paysafe/about/" target="_blank">
+    <img src="https://img.shields.io/badge/-Paysafe-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Paysafe"/>
+  </a>
+  <a href="https://www.linkedin.com/company/lloyds-banking-group/people/" target="_blank">
+    <img src="https://img.shields.io/badge/-Lloyds%20Banking%20Group-green?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Lloyds Banking Group"/>
   </a>
 </p>
 
-
-<p align="center"> 
-  🚀 Visitor count<br>
-  <img src="https://komarev.com/ghpvc/?username=jubinjustifies&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
-</p>
-
+---
 
 ## 💫 About:
 
